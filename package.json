@@ -1,22 +1,22 @@
 {
-  "name": "@sushiswap/default-token-list",
-  "version": "6.41.0",
+  "name": "@rchswap/default-token-list",
+  "version": "1.0.0",
   "description": "◦ The SushiSwap default token list",
-  "main": "build/sushiswap-default.tokenlist.json",
+  "main": "build/rchswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir build && node src/write.js > build/sushiswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir build && node src/write.js > build/rchswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/sushiswap-default.tokenlist.json"
+    "build/rchswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushiswap/default-token-list.git"
+    "url": "git+https://github.com/rchswap/default-token-list.git"
   },
   "keywords": [
-    "sushiswap",
+    "rchswap",
     "default",
     "token",
     "list"
@@ -24,9 +24,9 @@
   "author": "Matthew Lilley <hello@matthewlilley.com>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sushiswap/default-token-list/issues"
+    "url": "https://github.com/rchswap/default-token-list/issues"
   },
-  "homepage": "https://github.com/sushiswap/default-token-list#readme",
+  "homepage": "https://github.com/rchswap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.19",

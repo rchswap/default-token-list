@@ -5,7 +5,8 @@
     "symbol": "WRCH",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RCH.png"
+    "logoURI": "https://image.rdex.one/RCH.png",
+    "isFee": false
   },
   {
     "name": "RdxToken",
@@ -13,7 +14,8 @@
     "symbol": "RDX",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RDX.png"
+    "logoURI": "https://image.rdex.one/RDX.png",
+    "isFee": false
   },
   {
     "name": "RUSD",
@@ -21,7 +23,8 @@
     "symbol": "RUSD",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RUSD.png"
+    "logoURI": "https://image.rdex.one/RUSD.png",
+    "isFee": false
   },
   {
     "name": "RBTC",
@@ -29,7 +32,8 @@
     "symbol": "RBTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RBTC.png"
+    "logoURI": "https://image.rdex.one/RBTC.png",
+    "isFee": false
   },
   {
     "name": "RETH",
@@ -37,7 +41,8 @@
     "symbol": "RETH",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RETH.png"
+    "logoURI": "https://image.rdex.one/RETH.png",
+    "isFee": false
   },
   {
     "name": "RLTC",
@@ -45,7 +50,8 @@
     "symbol": "RLTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RLTC.png"
+    "logoURI": "https://image.rdex.one/RLTC.png",
+    "isFee": false
   },
   {
     "name": "RBCH",
@@ -53,7 +59,8 @@
     "symbol": "RBCH",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RBCH.png"
+    "logoURI": "https://image.rdex.one/RBCH.png",
+    "isFee": false
   },
   {
     "name": "RHT",
@@ -61,7 +68,8 @@
     "symbol": "RHT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RHT.png"
+    "logoURI": "https://image.rdex.one/RHT.png",
+    "isFee": false
   },
   {
     "name": "RBNB",
@@ -69,7 +77,8 @@
     "symbol": "RBNB",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RBNB.png"
+    "logoURI": "https://image.rdex.one/RBNB.png",
+    "isFee": false
   },
   {
     "name": "RUNI",
@@ -77,7 +86,8 @@
     "symbol": "RUNI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RUNI.png"
+    "logoURI": "https://image.rdex.one/RUNI.png",
+    "isFee": false
   },
   {
     "name": "RSUSHI",
@@ -85,7 +95,8 @@
     "symbol": "RSUSHI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RSUSHI.png"
+    "logoURI": "https://image.rdex.one/RSUSHI.png",
+    "isFee": false
   },
   {
     "name": "RFIL",
@@ -93,7 +104,8 @@
     "symbol": "RFIL",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/RFIL.png"
+    "logoURI": "https://image.rdex.one/RFIL.png",
+    "isFee": false
   },
   {
     "name": "PUSD",
@@ -101,7 +113,8 @@
     "symbol": "PUSD",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/PUSD.png"
+    "logoURI": "https://image.rdex.one/PUSD.png",
+    "isFee": false
   },
   {
     "name": "PDAO",
@@ -109,7 +122,8 @@
     "symbol": "PDAO",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/PDAO.png"
+    "logoURI": "https://image.rdex.one/PDAO.png",
+    "isFee": true
   },
   {
     "name": "PM",
@@ -117,6 +131,7 @@
     "symbol": "PM",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://image.rdex.one/PM.png"
+    "logoURI": "https://image.rdex.one/PM.png",
+    "isFee": true
   }
 ]
