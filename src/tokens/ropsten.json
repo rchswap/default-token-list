@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Wrapped RCH",
+    "address": "0x4085e2Aa83F4F8Bdc01238D246b56bC3d742CAD2",
+    "symbol": "WRCH",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RCH.png"
+  },
+  {
+    "name": "RdxToken",
+    "address": "0x15DAc7023359Be7c4f0Df7693cfa78d58aA105C4",
+    "symbol": "RDX",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RDX.png"
+  },
+  {
+    "name": "RUSD",
+    "address": "0xeDDE4713423D62745E106463454B3C73eCfC5E6c",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RUSD.png"
+  },
+  {
+    "name": "RBTC",
+    "address": "0x52BC1Bd31C9f7948C1c4A591BcF2Ae80859e67a3",
+    "symbol": "RBTC",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RBTC.png"
+  },
+  {
+    "name": "RETH",
+    "address": "0x49B4F403c524634639729AD795b84811ff72F51c",
+    "symbol": "RETH",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RETH.png"
+  },
+  {
+    "name": "RLTC",
+    "address": "0xFBD2139FAE48F4aF5395A5966fC5dC0527dd64C0",
+    "symbol": "RLTC",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RLTC.png"
+  },
+  {
+    "name": "RBCH",
+    "address": "0xCc4e645d728055C51dA9261B25EADacC89382C65",
+    "symbol": "RBCH",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://image.rdex.one/RBCH.png"
+  }
+]

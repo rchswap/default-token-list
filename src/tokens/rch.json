@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Wrapped RCH",
+    "address": "0xE038BeEF31e21F85c33d279E95721e8d546b0cC5",
+    "symbol": "WRCH",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RCH.png"
+  },
+  {
+    "name": "RdxToken",
+    "address": "0xB9bcB70202bD2F79Ed8e0B1128a55786020b690A",
+    "symbol": "RDX",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RDX.png"
+  },
+  {
+    "name": "RUSD",
+    "address": "0x5f6003fdf7040b158774C625E98102A7B6B66647",
+    "symbol": "RUSD",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RUSD.png"
+  },
+  {
+    "name": "RBTC",
+    "address": "0x89d7503acAd3124eD222D03a709BB13995FB470A",
+    "symbol": "RBTC",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RBTC.png"
+  },
+  {
+    "name": "RETH",
+    "address": "0xF1e9194DCCbA2084b0d6c3d1d6b64Cd883F28c28",
+    "symbol": "RETH",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RETH.png"
+  },
+  {
+    "name": "RLTC",
+    "address": "0xa9D34B44b4De7ca1935d921A667e9F1162d361cc",
+    "symbol": "RLTC",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RLTC.png"
+  },
+  {
+    "name": "RBCH",
+    "address": "0x2AEb3C8C2242887db046010A69948B3668F934a9",
+    "symbol": "RBCH",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RBCH.png"
+  },
+  {
+    "name": "RHT",
+    "address": "0xBf091a96eD43C14027b90de221fee8d52b43D157",
+    "symbol": "RHT",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RHT.png"
+  },
+  {
+    "name": "RBNB",
+    "address": "0x2826D96525Eda755cC260f336000d1864bB22780",
+    "symbol": "RBNB",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RBNB.png"
+  },
+  {
+    "name": "RUNI",
+    "address": "0x8cCAA63A31AD8d5F9CfbE7B51aAa91bA45ae8206",
+    "symbol": "RUNI",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RUNI.png"
+  },
+  {
+    "name": "RSUSHI",
+    "address": "0x85945Fe8710af5eF06FE599713701F7b90f14782",
+    "symbol": "RSUSHI",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RSUSHI.png"
+  },
+  {
+    "name": "RFIL",
+    "address": "0xbB5b7BF5987FBc7B1026F2534d433Fa922CE4740",
+    "symbol": "RFIL",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/RFIL.png"
+  },
+  {
+    "name": "PUSD",
+    "address": "0xab7Ec9F6A0cb3135aF318aEAC45870665AE304b0",
+    "symbol": "PUSD",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/PUSD.png"
+  },
+  {
+    "name": "PDAO",
+    "address": "0xDaaA726605A2C65B83A47E62844025B1826C8753",
+    "symbol": "PDAO",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/PDAO.png"
+  },
+  {
+    "name": "PM",
+    "address": "0xe9Ef9ddbf55622DDf3A59811fea61d17bcD072E5",
+    "symbol": "PM",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://image.rdex.one/PM.png"
+  }
+]
